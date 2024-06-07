@@ -1,6 +1,7 @@
-Instruction to run the code
+Instructions to run the code
 
-1. Please pass row and col value
-2. Please pass total live cells
-3. Please pass dimension for each live cell
+1. Please pass row and column value
+2. Please pass the total live cells before
+3. Please pass the dimensions for each live cell
+   I will print the final state.
 
